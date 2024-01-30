@@ -1,0 +1,73 @@
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto";
+}
+
+.card-container {
+  background-color: #150b3e;
+  height: 90vh;
+  width: 70vw;
+  margin: 20px;
+  border-radius: 10px;
+  padding: 10px;
+  color: #ffffff;
+}
+
+.profile-logo {
+  background-color: #c7d2fe;
+  height: 100px;
+  width: 100px;
+  border-radius: 200px;
+  text-align: center;
+  color: #7c3aed;
+}
+
+.name {
+  font-size: 30px;
+}
+
+.header-section {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.user-name {
+  padding-left: 30px;
+}
+
+.middle-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.your-balance {
+  padding-left: 30px;
+  color: #7c3aed;
+}
+
+.amount {
+  font-size: 25px;
+  padding-right: 50px;
+}
+
+.in-rupees {
+  padding-right: 20px;
+  font-size: 10px;
+  color: #7c3aed;
+}
+.unordered-list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

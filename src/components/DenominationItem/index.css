@@ -1,0 +1,15 @@
+.button {
+  background-color: #585076;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  cursor: pointer;
+  height: 5vh;
+  width: 25vw;
+  font-size: 20px;
+}
+
+.list-item {
+  list-style-type: none;
+  margin: 10px;
+}
